@@ -1,6 +1,58 @@
-### Hi there 👋 I'm Hamid Gholami,
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+## Hi geeks! <img src="./img/Hi.gif" width="29px"> My name is Hamid&nbsp;<img src="./img/Earth.gif" width="24px">
+
+I'm Hamid Gholami, a passionate self-taught DevOps engineer from Iran.
+
+<p align="center">
+	<img title="Linux" alt="Linux" src="./img/gnu-icon.svg" width="80" height="80" />
+	<img title="Linux" alt="Linux" src="./img/linux-original.svg" width="80" height="80" />
+
+</p>
+
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+
+
+<h2 align="left" id="hamid-gholami-os">Favorite Operation System</h2>
+
+> Operation systems (OS) that I like to work with.
+
+<table>
+  <tr>
+  <td align="center"  width="96">
+    <a href="https://getfedora.org/">
+      <img src="./img/getfedora-icon.svg" width="48" height="48" alt="Fedora" />
+    </a>
+    <br>Fedora
+  </td>
+  <td align="center"  width="96">
+    <a href="https://www.debian.org/">
+      <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+    </a>
+    <br>Debian
+  </td>
+  <td align="center"  width="96">
+    <a href="https://www.redhat.com">
+      <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
+    </a>
+    <br>RHEL
+  </td>
+    <td align="center" width="96">
+      <a href="https://ubuntu.com/">
+        <img src="./img/ubuntu-plain.svg" width="48" height="48" alt="Ubuntu" />
+      </a>
+      <br>Ubuntu
+    </td>
+    <td align="center"  width="96">
+      <a href="https://archlinux.org/">
+        <img src="./img/archlinux-icon.svg" width="48" height="48" alt="Arch" />
+      </a>
+      <br>Arch
+    </td>
+  </tr>
+  </table>
+
+
+<h2 align="left" id="hamid-gholami-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
 
@@ -55,10 +107,10 @@
       <br>Git
     </td>
     <td align="center" width="96">
-      <a href="https://ubuntu.com/">
-        <img src="./img/ubuntu-plain.svg" width="48" height="48" alt="Ubuntu" />
+      <a href="https://www.djangoproject.com/">
+        <img src="./img/django-original.svg" width="48" height="48" alt="django" />
       </a>
-      <br>Ubuntu
+      <br>django
     </td>
   </tr>
   <tr>
@@ -75,22 +127,22 @@
       <br>Kubernetes
     </td>
     <td align="center"  width="96">
-      <a href="https://www.debian.org/">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+      <a href="https://helm.sh/">
+        <img src="./img/helmsh-icon.svg" width="48" height="48" alt="Helm" />
       </a>
-      <br>Debian
+      <br>Helm
     </td>
     <td align="center"  width="96">
-      <a href="https://www.redhat.com">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
+      <a href="https://www.gnu.org/software/bash/">
+        <img src="./img/bash.png" width="48" height="48" alt="Bash" />
       </a>
-      <br>RHEL
+      <br>Bash
     </td>
     <td align="center" width="96">
-      <a href="https://www.linuxfoundation.org/">
-        <img src="./img/linux-original.svg" width="48" height="48" alt="Linux" />
+      <a href="https://www.vim.org/">
+        <img src="./img/vim-original.svg" width="48" height="48" alt="Vim" />
       </a>
-      <br>Linux
+      <br>Vim
     </td>
     <td align="center"  width="96">
       <a href="https://www.openshift.com/">
@@ -131,10 +183,10 @@
       <br>AWS
     </td>
     <td align="center"  width="96">
-      <a href="https://getfedora.org/">
-        <img src="./img/getfedora-icon.svg" width="48" height="48" alt="Fedora" />
+      <a href="https://bitbucket.org">
+        <img src="./img/bitbucket.svg" width="48" height="48" alt="bitbucket" />
       </a>
-      <br>Fedora
+      <br>bitbucket
     </td>
     <td align="center"  width="96">
       <a href="https://ceph.io/">
