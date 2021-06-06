@@ -1,2 +1,3 @@
-### Hi there
-My name is Hamid
+### Hi there 👋 I'm Hamid Gholami,
+
+
