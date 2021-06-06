@@ -8,12 +8,12 @@
   <tr>
     <td align="center" width="96">
       <a href="https://www.openshift.com/">
-        <img src="./img/" width="48" height="48" alt="OpenShift" />
+        <img src="./img/OpenShift-LogoType.svg" width="48" height="48" alt="OpenShift" />
       </a>
       <br>OpenShift
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="https://www.python.org/">
         <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
@@ -115,6 +115,62 @@
         <img src="./img/" width="48" height="48" alt="Istio" />
       </a>
       <br>Istio
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/" width="48" height="48" alt="CRI-O" />
+      </a>
+      <br>CRI-O
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/" width="48" height="48" alt="DockerSwarm" />
+      </a>
+      <br>Docker Swarm
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/" width="48" height="48" alt="Fedora" />
+      </a>
+      <br>Fedora
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/" width="48" height="48" alt="ceph" />
+      </a>
+      <br>ceph
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/" width="48" height="48" alt="OpenStack" />
+      </a>
+      <br>OpenStack
+    </td>
+    <td align="center"  width="96">
+      <a href="https://www.github.com">
+        <img src="./img/" width="48" height="48" alt="GitHub" />
+      </a>
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/" width="48" height="48" alt="NGINX" />
+      </a>
+      <br>NGINX
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/" width="48" height="48" alt="HAProxy" />
+      </a>
+      <br>HAProxy
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.gitlab.com" >
+        <img src="./img/" width="48" height="48" alt="GitLab" />
+      </a>
+      <br>GitLab
     </td>
   </tr>
 </table>
