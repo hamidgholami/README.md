@@ -7,10 +7,10 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="https://www.openshift.com/">
-        <img src="./img/OpenShift-LogoType.svg" width="48" height="48" alt="OpenShift" />
+      <a href="https://www.ansible.com/">
+        <img src="./img/ansible-icon.svg" width="48" height="48" alt="Ansible" />
       </a>
-      <br>OpenShift
+      <br>Ansible
     </td>
     <td align="center" width="96">
       <a href="https://www.python.org/">
@@ -19,156 +19,156 @@
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+      <a href="https://golang.org/">
+        <img src="./img/go-original-toy.svg" width="48" height="48" alt="Golang" />
       </a>
       <br>Go
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/" width="48" height="48" alt="Jenkins" />
+      <a href="https://www.jenkins.io/">
+        <img src="./img/jenkins-icon.svg" width="48" height="48" alt="Jenkins" />
       </a>
       <br>Jenkins
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/" width="48" height="48" alt="Vue.js" />
+      <a href="https://vuejs.org/">
+        <img src="./img/vuejs-original.svg" width="48" height="48" alt="Vue.js" />
       </a>
       <br>Vue.js
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/" width="48" height="48" alt="Terraform" />
+      <a href="https://www.terraform.io/">
+        <img src="./img/terraformio-icon.svg" width="48" height="48" alt="Terraform" />
       </a>
       <br>Terraform
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/" width="48" height="48" alt="Vagrant" />
+      <a href="https://www.vagrantup.com/" >
+        <img src="./img/vagrant-original.svg" width="48" height="48" alt="Vagrant" />
       </a>
       <br>Vagrant
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/" width="48" height="48" alt="Git" />
+      <a href="https://git-scm.com/">
+        <img src="./img/git-original.svg" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/" width="48" height="48" alt="Ubuntu" />
+      <a href="https://ubuntu.com/">
+        <img src="./img/ubuntu-plain.svg" width="48" height="48" alt="Ubuntu" />
       </a>
       <br>Ubuntu
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a href="https://www.docker.com/" >
         <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a href="https://kubernetes.io/" >
         <img src="./img/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Kubernetes
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
+      <a href="https://www.debian.org/">
         <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
       </a>
       <br>Debian
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
+      <a href="https://www.redhat.com">
         <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
       </a>
       <br>RHEL
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/" width="48" height="48" alt="Linux" />
+      <a href="https://www.linuxfoundation.org/">
+        <img src="./img/linux-original.svg" width="48" height="48" alt="Linux" />
       </a>
       <br>Linux
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/" width="48" height="48" alt="Ansible" />
+      <a href="https://www.openshift.com/">
+        <img src="./img/openshift-icon.svg" width="48" height="48" alt="OpenShift" />
       </a>
-      <br>Ansible
+      <br>OpenShift
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a href="https://grafana.com/" >
         <img src="./img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
       </a>
       <br>Grafana
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a href="https://prometheus.io/" >
         <img src="./img/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
       </a>
       <br>Prometheus
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/" width="48" height="48" alt="Istio" />
+      <a href="https://istio.io/" >
+        <img src="./img/istioio-icon.svg" width="48" height="48" alt="Istio" />
       </a>
       <br>Istio
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/" width="48" height="48" alt="CRI-O" />
+      <a href="https://cri-o.io/" >
+        <img src="./img/cri-oio-icon.svg" width="48" height="48" alt="CRI-O" />
       </a>
       <br>CRI-O
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/" width="48" height="48" alt="DockerSwarm" />
+      <a href="https://aws.amazon.com/" >
+        <img src="./img/aws.svg" width="48" height="48" alt="AWS" />
       </a>
-      <br>Docker Swarm
+      <br>AWS
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/" width="48" height="48" alt="Fedora" />
+      <a href="https://getfedora.org/">
+        <img src="./img/getfedora-icon.svg" width="48" height="48" alt="Fedora" />
       </a>
       <br>Fedora
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/" width="48" height="48" alt="ceph" />
+      <a href="https://ceph.io/">
+        <img src="./img/ceph-icon.svg" width="48" height="48" alt="ceph" />
       </a>
       <br>ceph
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/" width="48" height="48" alt="OpenStack" />
+      <a href="https://www.openstack.org/">
+        <img src="./img/openstack-icon.svg" width="48" height="48" alt="OpenStack" />
       </a>
       <br>OpenStack
     </td>
     <td align="center"  width="96">
-      <a href="https://www.github.com">
-        <img src="./img/" width="48" height="48" alt="GitHub" />
+      <a href="https://github.com/">
+        <img src="./img/github-original.svg" width="48" height="48" alt="GitHub" />
       </a>
       <br>GitHub
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/" width="48" height="48" alt="NGINX" />
+      <a href="https://www.nginx.com/" >
+        <img src="./img/nginx-original.svg" width="48" height="48" alt="NGINX" />
       </a>
       <br>NGINX
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/" width="48" height="48" alt="HAProxy" />
+      <a href="http://www.haproxy.org/" >
+        <img src="./img/haproxy-icon.svg" width="48" height="48" alt="HAProxy" />
       </a>
       <br>HAProxy
     </td>
     <td align="center" width="96">
-      <a href="https://www.gitlab.com" >
-        <img src="./img/" width="48" height="48" alt="GitLab" />
+      <a href="https://gitlab.com" >
+        <img src="./img/gitlab-original.svg" width="48" height="48" alt="GitLab" />
       </a>
       <br>GitLab
     </td>
