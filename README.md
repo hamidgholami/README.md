@@ -7,10 +7,10 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/" width="48" height="48" alt="Openshift" />
+      <a href="https://www.openshift.com/">
+        <img src="./img/" width="48" height="48" alt="OpenShift" />
       </a>
-      <br>openshift
+      <br>OpenShift
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
