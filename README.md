@@ -183,10 +183,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
       <br>AWS
     </td>
     <td align="center"  width="96">
-      <a href="https://bitbucket.org">
-        <img src="./img/bitbucket.svg" width="48" height="48" alt="bitbucket" />
+      <a href="https://puppet.com/">
+        <img src="./img/puppet-icon.svg" width="48" height="48" alt="puppet" />
       </a>
-      <br>bitbucket
+      <br>puppet
     </td>
     <td align="center"  width="96">
       <a href="https://ceph.io/">
