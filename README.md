@@ -1,7 +1,7 @@
 
 ## Hi geeks! <img src="./img/Hi.gif" width="29px"> My name is Hamid&nbsp;<img src="./img/Earth.gif" width="24px">
 
-I'm Hamid Gholami, a passionate self-taught DevOps engineer.
+I'm Hamid Gholami, a passionate self-taught SRE/DevOps engineer.
 
 <p align="center">
 	<img title="Linux" alt="Linux" src="./img/gnu-icon.svg" width="80" height="80" />
