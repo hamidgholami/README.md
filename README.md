@@ -1,7 +1,7 @@
 
 ## Hi geeks! <img src="./img/Hi.gif" width="29px"> My name is Hamid&nbsp;<img src="./img/Earth.gif" width="24px">
 
-I'm Hamid Gholami, a passionate self-taught DevOps engineer from Iran.
+I'm Hamid Gholami, a passionate self-taught DevOps engineer.
 
 <p align="center">
 	<img title="Linux" alt="Linux" src="./img/gnu-icon.svg" width="80" height="80" />
@@ -9,7 +9,7 @@ I'm Hamid Gholami, a passionate self-taught DevOps engineer from Iran.
 
 </p>
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source and cloud enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
 <h2 align="left" id="hamid-gholami-os">Favorite Operation System</h2>
