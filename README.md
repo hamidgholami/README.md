@@ -11,6 +11,8 @@ I'm Hamid Gholami, a passionate self-taught SRE/DevOps engineer.
 
 I am also an open-source and cloud enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hamidgholami&show_icons=true&theme=gotham" alt="hamidgholami" />
+
 
 <h2 align="left" id="hamid-gholami-os">Favorite Operation System</h2>
 
