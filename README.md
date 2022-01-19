@@ -13,6 +13,9 @@ I am also an open-source and cloud enthusiast and maintainer. I learned a lot fr
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hamidgholami&show_icons=true&theme=gotham" alt="hamidgholami" />
 
+<p align="center"> <img src="https://github-readme-twitter.gazf.vercel.app/api?id=045_hamid&layout=wide" alt="hamidgholami" />
+
+
 
 <h2 align="left" id="hamid-gholami-os">Favorite Operation System</h2>
 
