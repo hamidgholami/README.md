@@ -11,7 +11,7 @@ I'm Hamid Gholami, a passionate self-taught SRE/DevOps engineer.
 
 </p>
 
-I am also an open-source and cloud enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source and cloud enthusiast and maintainer.<br> I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
 
