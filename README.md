@@ -1,6 +1,8 @@
 
 ## Hi geeks! <img src="./img/Hi.gif" width="29px"> My name is Hamid&nbsp;<img src="./img/Earth.gif" width="24px">
 
+<p align="center"> <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=hamidgholami&show_icons=true&theme=gotham" alt="hamidgholami" />
+
 I'm Hamid Gholami, a passionate self-taught SRE/DevOps engineer.
 
 <p align="center">
@@ -10,8 +12,6 @@ I'm Hamid Gholami, a passionate self-taught SRE/DevOps engineer.
 </p>
 
 I am also an open-source and cloud enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hamidgholami&show_icons=true&theme=gotham" alt="hamidgholami" />
 
 
 
