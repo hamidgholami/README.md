@@ -14,7 +14,7 @@ I'm Hamid Gholami, a passionate self-taught SRE/DevOps engineer.
 I am also an open-source and cloud enthusiast and maintainer.<br> I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 ## 📺 Latest YouTube videos
-<br />
+
 <a href="https://www.youtube.com/watch?v=YAoM2LN6f3M" target="_blank">
  <img src="./img/youtube-cards/terraform-cli-youtube.jpeg" alt="Watch the video" width="240" height="180" />
 </a>
