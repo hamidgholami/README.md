@@ -15,12 +15,15 @@ I am also an open-source and cloud enthusiast and maintainer.<br> I learned a lo
 
 ## 📺 Latest YouTube videos
 
-<a href="https://www.youtube.com/watch?v=YAoM2LN6f3M" target="_blank">
- <img src="./img/youtube-cards/terraform-cli-youtube.jpeg" alt="Watch the video" width="240" height="180" />
-</a>
-
-<br />
-<br />
+<table>
+  <tr>
+  <td align="center"  width="150">
+    <a href="https://www.youtube.com/watch?v=YAoM2LN6f3M" target="_blank">
+      <img src="./img/youtube-cards/terraform-cli-youtube.jpeg" alt="Watch the video" width="150" height="140" />
+    </a>
+    <br> Using The Terraform CLI
+  </td>
+</table>
 
 [<img src="https://custom-icon-badges.herokuapp.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCBlOVqLEwcvFNG03KDAVTlw?sub_confirmation=1)
 
