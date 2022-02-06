@@ -17,9 +17,9 @@ I am also an open-source and cloud enthusiast and maintainer.<br> I learned a lo
 
 <table>
   <tr>
-  <td align="center"  width="150">
+  <td align="center"  width="190">
     <a href="https://www.youtube.com/watch?v=YAoM2LN6f3M" target="_blank">
-      <img src="./img/youtube-cards/terraform-cli-youtube.jpeg" alt="Watch the video" width="150" height="140" />
+      <img src="./img/youtube-cards/terraform-cli-youtube.jpeg" alt="Watch the video" width="180" height="140" />
     </a>
     <br> Using The Terraform CLI
   </td>
