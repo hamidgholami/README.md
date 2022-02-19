@@ -11,7 +11,7 @@ I'm Hamid Gholami, a passionate self-taught SRE/DevOps engineer.
 
 </p>
 
-I am also an open-source and cloud enthusiast and maintainer.<br> I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source and cloud enthusiast and maintainer.<br> I learn a lot from the open-source community and I love how collaboration and knowledge sharing happen through open-source.
 
 ## 📺 Latest YouTube videos
 
@@ -27,7 +27,7 @@ I am also an open-source and cloud enthusiast and maintainer.<br> I learned a lo
     <a href="https://www.youtube.com/watch?v=kFLhMdftMUg" target="_blank">
       <img src="./img/youtube-cards/navigate-terraform-workflow.png" alt="Watch the video" width="180" height="140" />
     </a>
-    <br> Navigate Terraform workflow
+    <br> Terraform workflow
   </td>
 </table>
 
