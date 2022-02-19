@@ -21,7 +21,7 @@ I am also an open-source and cloud enthusiast and maintainer.<br> I learn a lot 
     <a href="https://www.youtube.com/watch?v=YAoM2LN6f3M" target="_blank">
       <img src="./img/youtube-cards/terraform-cli-youtube.jpeg" alt="Watch the video" width="180" height="140" />
     </a>
-    <br> Using The Terraform CLI
+    <br> Terraform CLI
   </td>
   <td align="center"  width="190">
     <a href="https://www.youtube.com/watch?v=kFLhMdftMUg" target="_blank">
