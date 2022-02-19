@@ -23,6 +23,12 @@ I am also an open-source and cloud enthusiast and maintainer.<br> I learned a lo
     </a>
     <br> Using The Terraform CLI
   </td>
+  <td align="center"  width="190">
+    <a href="https://www.youtube.com/watch?v=kFLhMdftMUg" target="_blank">
+      <img src="./img/youtube-cards/navigate-terraform-workflow.png" alt="Watch the video" width="180" height="140" />
+    </a>
+    <br> Navigate Terraform workflow
+  </td>
 </table>
 
 [<img src="https://custom-icon-badges.herokuapp.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCBlOVqLEwcvFNG03KDAVTlw?sub_confirmation=1)
