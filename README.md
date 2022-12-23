@@ -6,7 +6,6 @@ I'm Hamid Gholami, a passionate self-taught DevOps engineer.
 
 I am passionate about open-source, CNCF technologies/tools and Cutting-Edge knowledge.
 
-***
 ## 📺 Latest YouTube videos
 <table>
   <tr>
