@@ -1,6 +1,6 @@
 
 ## Hi Geeks!
-I'm Hamid Gholami, a passionate self-taught DevOps engineer.
+I'm Hamid Gholami, a self-taught DevOps engineer.
 
 ![Hamid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamidgholami&show_icons=true&theme=gotham)
 
