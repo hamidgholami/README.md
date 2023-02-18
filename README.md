@@ -37,6 +37,6 @@ I am passionate about open-source, CNCF technologies/tools and Cutting-Edge know
 <a target="_blank" href="https://www.linkedin.com/in/hamid-gholami"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:hidgholami@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://twitter.com/045_hamid"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-<a target="_blank" href="https://www.youtube.com/channel/@geekestan"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img></a>
+<a target="_blank" href="https://www.youtube.com/@geekestan"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img></a>
 <br>
 </p>       
